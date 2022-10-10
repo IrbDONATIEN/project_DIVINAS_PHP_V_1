@@ -8,7 +8,8 @@ DIVINAS
 
 DIVINAS is a web application of the Civil Status Officer for the management of ceremonies of celebration of marriages, registration of births and deaths and automatic delivery of corresponding documents especially to control or limit the multiple celebration of marriage by the same person from one municipality to another with an online and local showcase.
 
-![preview img](/vitrine.PNG)
+
+![vitrine](https://user-images.githubusercontent.com/111361566/194841123-bac5aaa0-0274-4c1f-830a-ab1bb677f832.PNG)
 
 ## Overview
 
@@ -20,7 +21,7 @@ The application is organized as follows:
 
 Here is the demo of the management interface of the application.
 
-![preview img](/demo.PNG)
+![demo](https://user-images.githubusercontent.com/111361566/194841115-f01102e3-cd08-43c6-bac9-40511efec60d.PNG)
 
 
 ## Getting Started
